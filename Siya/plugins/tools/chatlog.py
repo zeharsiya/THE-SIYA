@@ -8,7 +8,7 @@ from Siya import app
 
 photo = [
     "https://telegra.ph/file/bb7215cc53d109f4d2fe4.jpg",
-    "https://telegra.ph/file/c581d6540c983b1d9b0a6.jpg,
+    "https://telegra.ph/file/c581d6540c983b1d9b0a6.jpg",
     "https://telegra.ph/file/bb7215cc53d109f4d2fe4.jpg",
     "https://telegra.ph/file/c581d6540c983b1d9b0a6.jpg",
     "https://telegra.ph/file/bb7215cc53d109f4d2fe4.jpg",
